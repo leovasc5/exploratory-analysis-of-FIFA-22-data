@@ -14,10 +14,3 @@ Estudos sobre os dados do FIFA 22. Traduzido para o português, criado escalão 
 <img src="https://www.flags-and-anthems.com/media/flags/flagge-spanien.gif" height="20" width="30" style="max-width:100%;" title="Español">
 <p text-alingn="justify">
 Estudios sobre dados FIFA 22. Traducido al portugués, creé un nivel de jugadores y exploré curiosidades sobre el juego del fútbol real. Feito com amor com Python y Jupyter Notebook <3. Se utilizan Pandas, Numpy y Matplotlib.
-<hr>
-<div align="center">
-<img src=""/>
-<label>Layout Principal</label><br>
-<label>Main Layout</label>
-<hr>
-</div>
