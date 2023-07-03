@@ -93,16 +93,6 @@ CREATE TABLE IF NOT EXISTS `fifa`.`posicao` (
   PRIMARY KEY (`id`))
 ENGINE = InnoDB;
 
-CREATE UNIQUE INDEX `id_UNIQUE` ON `fifa`.`posicao` (`id` ASC) VISIBLE;
-
-CREATE UNIQUE INDEX `sigla_traduzida_UNIQUE` ON `fifa`.`posicao` (`sigla_traduzida` ASC) VISIBLE;
-
-CREATE UNIQUE INDEX `nome_traduzido_UNIQUE` ON `fifa`.`posicao` (`nome_traduzido` ASC) VISIBLE;
-
-CREATE UNIQUE INDEX `nome_UNIQUE` ON `fifa`.`posicao` (`nome` ASC) VISIBLE;
-
-CREATE UNIQUE INDEX `sigla_UNIQUE` ON `fifa`.`posicao` (`sigla` ASC) VISIBLE;
-
 
 -- -----------------------------------------------------
 -- Table `fifa`.`jogador`
